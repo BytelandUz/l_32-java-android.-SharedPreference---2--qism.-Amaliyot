@@ -21,7 +21,8 @@ Amaliyot uchun , ro'yhatdan o'tish qismini qilish.
                 }
             });
             
-            
-            ![screen 21](https://user-images.githubusercontent.com/110789833/183313456-41e22fb9-7c51-449d-b6a9-d54e6750a074.jpg)
+            ![Screenshot_1659910891](https://user-images.githubusercontent.com/110789833/183313468-10c0b9e7-766c-4234-b4db-a87b2891bc8d.png)
+
+          
 
     
